@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://x.com/7Mahach5?t=2r1b2G8w5XxfDpWPzU05qQ&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/mahtabul hoque chowdhury?logo=twitter&style=for-the-badge" alt="mahtabul hoque chowdhury" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript,Typescript,Nodejs,expressjs**
+- 🌱 I’m currently learning **Typescript,Nextjs**
 
-- 💬 Ask me about **react, vite etc**
+- 💬 Ask me about **javascript,react, vite etc**
 
 - 📫 How to reach me **mahach0396@gmail.com**
 
